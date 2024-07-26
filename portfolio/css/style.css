@@ -1,0 +1,6 @@
+.banner{
+    background-image: url(/website/portfolio/css/s.jpg);
+    background-size: cover;
+    background-repeat:no-repeat ;
+    padding: 200px;
+}
